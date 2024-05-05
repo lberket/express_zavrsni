@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "663764b4abbb5c9a9878bfce"
+  },
+  "kategorija": "donirano",
+  "tip": "Ostalo",
+  "opis": "Četka za pse",
+  "vrijednost": 12,
+  "id": 11,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663764beabbb5c9a9878bfd0"
+  },
+  "kategorija": "nudi",
+  "tip": "Igračke",
+  "opis": "Teniska loptica",
+  "vrijednost": 2,
+  "id": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663764d1abbb5c9a9878bfd4"
+  },
+  "kategorija": "donirano",
+  "tip": "Ostalo",
+  "opis": "Akvarij",
+  "vrijednost": 30,
+  "id": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663764dcabbb5c9a9878bfd6"
+  },
+  "kategorija": "donirano",
+  "tip": "Ostalo",
+  "opis": "Kavez za hrčka",
+  "vrijednost": 30,
+  "id": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663764e7abbb5c9a9878bfd8"
+  },
+  "kategorija": "donirano",
+  "tip": "Igračke",
+  "opis": "Loptica za pse",
+  "vrijednost": 5,
+  "id": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663764f0abbb5c9a9878bfda"
+  },
+  "kategorija": "donirano",
+  "tip": "Hrana",
+  "opis": "Mokra hrana za mačke - 5kg",
+  "vrijednost": 15,
+  "id": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663764f8abbb5c9a9878bfdc"
+  },
+  "kategorija": "nudi",
+  "tip": "Ostalo",
+  "opis": "Kavez za srednje papige",
+  "vrijednost": 25,
+  "id": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66376500abbb5c9a9878bfde"
+  },
+  "kategorija": "donirano",
+  "tip": "Igračke",
+  "opis": "Grebalica za mačke",
+  "vrijednost": 15,
+  "id": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66376509abbb5c9a9878bfe0"
+  },
+  "kategorija": "donirano",
+  "tip": "Hrana",
+  "opis": "Suha hrana za pse - 10kg",
+  "vrijednost": 25,
+  "id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66377cbae4e72acb43ef1dd6"
+  },
+  "kategorija": "nudi",
+  "tip": "Igračke",
+  "opis": "Teniska loptica",
+  "vrijednost": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663792584154f87f25986972"
+  },
+  "kategorija": "trazi",
+  "tip": "Hrana",
+  "opis": "Hrana za hrčke",
+  "vrijednost": 5,
+  "id": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663792664154f87f25986982"
+  },
+  "kategorija": "donirano",
+  "tip": "Igračke",
+  "opis": "Kolut za ježa",
+  "vrijednost": 20,
+  "id": 16,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663793d24154f87f25986afc"
+  },
+  "kategorija": "nudi",
+  "tip": "Hrana",
+  "opis": "Hrana za mačke",
+  "vrijednost": 12,
+  "id": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637ad202fcbf23f3c473382"
+  },
+  "kategorija": "nudi",
+  "tip": "Ostalo",
+  "opis": "Kavez za ptice",
+  "vrijednost": 20,
+  "id": 101,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637b05881c9bdac3bc62584"
+  },
+  "kategorija": "trazi",
+  "tip": "Ostalo",
+  "opis": "Kavez za ježa",
+  "vrijednost": 30,
+  "id": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637b08781c9bdac3bc625b7"
+  },
+  "kategorija": "trazi",
+  "tip": "Ostalo",
+  "opis": "Kavez za ježa",
+  "vrijednost": 30,
+  "id": 102,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637b89a5c5beb28f78b2f7a"
+  },
+  "kategorija": "donirano",
+  "tip": "Hrana",
+  "opis": "Hrana za zmije",
+  "vrijednost": 15,
+  "__v": 0
+}]

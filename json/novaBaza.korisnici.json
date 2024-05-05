@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "66267a1367c04c991cf91e16"
+  },
+  "username": "lberket",
+  "email": "lara.berket@gmail.com",
+  "role": "user",
+  "password": "$2b$10$9U4ILi5dxtv.GwFuLLZRm.xVBCQ6i.emQQDqFdtQfFTcTcJOtEvLq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66267a3267c04c991cf91e18"
+  },
+  "username": "dberket",
+  "email": "damjanberket@gmail.com",
+  "role": "user",
+  "password": "$2b$10$KerQpSENEhZm6pV380KZmuHya0O3udjCCj6uJ/O4yoA8RPkRI2qJC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66374d5f9f2a9b820fd2f0a4"
+  },
+  "username": "abarbara",
+  "email": "anabarbaric@gmail.com",
+  "role": "admin",
+  "password": "$2b$10$6NbEZ2G0sw8HSbKzfV.OYOilgUW3EjSCm.0QukZ/lZ.GmAIlbjTj2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663750641ed40dbca8f8c671"
+  },
+  "username": "lzrilic",
+  "email": "lzrilic@gmail.com",
+  "role": "user",
+  "password": "$2b$10$F1/3mIb5.aQ4Io5f0fcgv.nynurh5mRtMjVcM83SJzn/gvHcl.GvC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66378e22d0e2c2e69a9f297a"
+  },
+  "username": "a234",
+  "email": "a@gmail.com",
+  "role": "admin",
+  "password": "$2b$10$gH2H5YFMI5JtBQArY2qCK.vbz6w/M6sIm43xjpBYqAvGgaLCcenZ.",
+  "__v": 0
+}]

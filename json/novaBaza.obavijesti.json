@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6637b33bfcd141b3e39562be"
+  },
+  "naslov": "Svečano otvorenje",
+  "datum": "2023-04-17",
+  "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+  "vazno": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637b6e35c5beb28f78b2e07"
+  },
+  "naslov": "Međunarodni dan mačaka",
+  "datum": "2023-02-17",
+  "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+  "vazno": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637b7395c5beb28f78b2e0a"
+  },
+  "naslov": "Pregled mačaka",
+  "datum": "15/05/2023",
+  "tekst": "Obavljamo besplatan veterinarski pregled u utorak, 16.5.2023.",
+  "vazno": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637b7c85c5beb28f78b2e96"
+  },
+  "naslov": "Tražimo radnike",
+  "datum": "05/05/2024",
+  "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+  "vazno": true,
+  "__v": 0
+}]

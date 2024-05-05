@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "663784bc1dd508e6a60ec68d"
+  },
+  "ime": "Garfield",
+  "vrsta": "mačka",
+  "cip": false,
+  "godine": 44,
+  "opis": "Voli lazanje",
+  "pregled": "2022-09-23",
+  "udomljen": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663784e49337612c597dc5a3"
+  },
+  "id": 2,
+  "ime": "Snoopy",
+  "vrsta": "pas",
+  "cip": true,
+  "godine": 50,
+  "opis": "Više od običnog psa",
+  "pregled": "2000-02-13",
+  "udomljen": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663784f19337612c597dc5a5"
+  },
+  "id": 3,
+  "ime": "Brian",
+  "vrsta": "pas",
+  "godine": 21,
+  "opis": "Voli čitati knjige",
+  "udomljen": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663784fd9337612c597dc5a7"
+  },
+  "id": 4,
+  "ime": "Chococat",
+  "vrsta": "mačka",
+  "cip": false,
+  "godine": 34,
+  "opis": "Sanrio",
+  "udomljen": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663785069337612c597dc5a9"
+  },
+  "id": 5,
+  "ime": "Scooby",
+  "vrsta": "pas",
+  "cip": true,
+  "godine": 19,
+  "opis": "Nije pričljiv",
+  "udomljen": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663785119337612c597dc5ab"
+  },
+  "id": 6,
+  "ime": "Pluto",
+  "vrsta": "pas",
+  "cip": false,
+  "godine": 49,
+  "opis": "Miran i poslušan",
+  "udomljen": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637868ed0e2c2e69a9f24fb"
+  },
+  "id": 1,
+  "ime": "Mimi",
+  "vrsta": "",
+  "godine": 12,
+  "opis": "Voli se maziti.",
+  "udomljen": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663788e7d0e2c2e69a9f256e"
+  },
+  "id": 8,
+  "ime": "Jurica",
+  "vrsta": "zec",
+  "godine": 3,
+  "opis": "Voli skakati.",
+  "udomljen": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66379c065c59495b7ccdfe9c"
+  },
+  "id": 25,
+  "ime": "Rex",
+  "vrsta": "pas",
+  "cip": true,
+  "godine": 11,
+  "opis": "Malo agresivan",
+  "udomljen": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637b8f75c5beb28f78b2fdf"
+  },
+  "ime": "Ćupi",
+  "vrsta": "ptica",
+  "godine": 3,
+  "opis": "Puno govori.",
+  "udomljen": true,
+  "__v": 0
+}]

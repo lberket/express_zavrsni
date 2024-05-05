@@ -1,0 +1,154 @@
+{
+  "obavijesti": [
+    {
+      "id": 1,
+      "naslov": "Svečano otvorenje",
+      "datum": "2023-04-17",
+      "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+      "vazno": true
+    },
+    {
+      "id": 2,
+      "naslov": "Međunarodni dan mačaka",
+      "datum": "2023-02-17",
+      "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+      "vazno": false
+    },
+    {
+      "naslov": "Pregled mačaka",
+      "datum": "15/05/2023",
+      "tekst": "Obavljamo besplatan veterinarski pregled u utorak, 16.5.2023.",
+      "vazno": false,
+      "id": 3
+    }
+  ],
+  "donacije": [
+    {
+      "id": 1,
+      "kategorija": "donirano",
+      "tip": "Hrana",
+      "vrijednost": 25,
+      "opis": "Suha hrana za pse - 10kg"
+    },
+    {
+      "id": 2,
+      "kategorija": "trazi",
+      "tip": "Igračke",
+      "vrijednost": 15,
+      "opis": "Grebalica za mačke"
+    },
+    {
+      "id": 3,
+      "kategorija": "nudi",
+      "tip": "Ostalo",
+      "vrijednost": 25,
+      "opis": "Kavez za srednje papige"
+    },
+    {
+      "id": 4,
+      "kategorija": "nudi",
+      "tip": "Hrana",
+      "vrijednost": 15,
+      "opis": "Mokra hrana za mačke - 5kg"
+    },
+    {
+      "id": 5,
+      "kategorija": "donirano",
+      "tip": "Igračke",
+      "vrijednost": 5,
+      "opis": "Loptica za pse"
+    },
+    {
+      "id": 6,
+      "kategorija": "donirano",
+      "tip": "Ostalo",
+      "vrijednost": 30,
+      "opis": "Kavez za hrčka"
+    },
+    {
+      "kategorija": "donirano",
+      "tip": "Ostalo",
+      "vrijednost": "30",
+      "opis": "Akvarij",
+      "id": 8
+    },
+    {
+      "kategorija": "trazi",
+      "tip": "Hrana",
+      "vrijednost": "10",
+      "opis": "Hrana za pse",
+      "id": 9
+    },
+    {
+      "kategorija": "nudi",
+      "tip": "Igračke",
+      "vrijednost": "2",
+      "opis": "Teniska loptica",
+      "id": 10
+    },
+    {
+      "kategorija": "donirano",
+      "tip": "Ostalo",
+      "vrijednost": "12",
+      "opis": "Četka za pse",
+      "id": 11
+    }
+  ],
+  "zivotinje": [
+    {
+      "id": 1,
+      "ime": "Garfield",
+      "vrsta": "mačka",
+      "cip": false,
+      "godine": 44,
+      "opis": "Voli lazanje",
+      "pregled": "2022-09-23",
+      "udomljen": true
+    },
+    {
+      "id": 2,
+      "ime": "Snoopy",
+      "vrsta": "pas",
+      "cip": true,
+      "godine": 50,
+      "opis": "Više od običnog psa",
+      "pregled": "2000-02-13",
+      "udomljen": false
+    },
+    {
+      "ime": "Brian",
+      "vrsta": "pas",
+      "godine": "21",
+      "udomljen": true,
+      "opis": "Voli čitati knjige",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "ime": "Chococat",
+      "vrsta": "mačka",
+      "cip": false,
+      "godine": 34,
+      "opis": "Sanrio",
+      "udomljen": false
+    },
+    {
+      "id": 5,
+      "ime": "Scooby",
+      "vrsta": "pas",
+      "cip": true,
+      "godine": 19,
+      "opis": "Nije pričljiv",
+      "udomljen": true
+    },
+    {
+      "id": 6,
+      "ime": "Pluto",
+      "vrsta": "pas",
+      "cip": false,
+      "godine": 49,
+      "opis": "Miran i poslušan",
+      "udomljen": true
+    }
+  ]
+}
